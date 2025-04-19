@@ -59,8 +59,7 @@ You may:
 - Request data deletion
 - Ask questions about your data
 
-📨 Submit requests here:  
-[https://docs.google.com/forms/d/e/1FAIpQLSdCfKJDWPh0Cg2tpzJDS9006K2f0IJHAL264uDknIxABdLkIA/viewform?usp=sharing](https://docs.google.com/forms/d/e/1FAIpQLSdCfKJDWPh0Cg2tpzJDS9006K2f0IJHAL264uDknIxABdLkIA/viewform?usp=sharing)
+📨 Submit requests [through our support form](https://docs.google.com/forms/d/e/1FAIpQLSdCfKJDWPh0Cg2tpzJDS9006K2f0IJHAL264uDknIxABdLkIA/viewform?usp=sharing).
 
 ---
 
