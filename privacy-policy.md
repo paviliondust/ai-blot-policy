@@ -75,10 +75,11 @@ These services collect anonymized data for:
 ---
 
 ## 6. Data Sharing and Disclosure
-- **We do not:** 
+**We do not:** 
 - Sell or rent your data to third parties
 - Share personally identifiable information
 - Combine anonymous data with personal identifiers
+
 **Anonymous, aggregated data may be shared with:**
 - Service providers necessary for game operation
 - Analytics partners for performance measurement
